@@ -40,5 +40,5 @@ Welcome to my portfolio. I’m a DevOps & Cloud Engineering leader with 20+ year
 
 ## 📄 Resume & Contact
 - [LinkedIn](https://www.linkedin.com/in/anupranjan)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:anup.anupranjan@gmail.com)
 - [Download Resume](assets/anup-resume.pdf)
