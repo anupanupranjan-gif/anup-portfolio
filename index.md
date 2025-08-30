@@ -8,7 +8,7 @@ Welcome to my portfolio. I’m a DevOps & Cloud Engineering leader with 20+ year
 - **Outcome**: 25% cost savings, improved scalability & performance
 - **Tech**: GCP, GCVE, GitLab CI/CD, Kubernetes, Dynatrace
 - **Artifacts**:
-  - [Architecture Diagram](assets/gcp-architecture.pdf)
+  - [Architecture Diagram](assets/B2c_GCP_architecture.pdf)
   - [Terraform Templates](https://github.com/yourusername/gcp-terraform)
 
 ### 🧠 GenAI-based Document Search (In Progress)
