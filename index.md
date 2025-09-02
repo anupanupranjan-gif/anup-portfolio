@@ -9,7 +9,7 @@ Welcome to my portfolio. I’m a DevOps & Cloud Engineering leader with 20+ year
 - **Tech**: GCP, GCVE, GitLab CI/CD, Kubernetes, Dynatrace
 - **Artifacts**:
   - [Architecture Diagram](assets/B2c_GCP_architecture.pdf)
-  - [Terraform Templates](https://github.com/yourusername/gcp-terraform)
+  - [Terraform Templates](assets/cloudrun_terraform_template.tf)
 
 ### 🧠 GenAI-based Document Search (In Progress)
 - OpenAI embeddings + Pinecone + Streamlit frontend
@@ -20,11 +20,9 @@ Welcome to my portfolio. I’m a DevOps & Cloud Engineering leader with 20+ year
 ### 🔄 Endeca to Lucidworks Fusion – Ferguson
 - Improved conversion by 8%, ML accuracy by 12%
 - Tech: Lucidworks Fusion, Endeca, REST API, ATG
-- [Integration Code](https://github.com/yourusername/lucidworks-endeca-integration)
 
 ### 📦 PIM Data Pipeline
 - Azure Blob → Elasticsearch → GCP bucket for 2M+ SKUs
-- [GitHub Repo](https://github.com/yourusername/pim-data-pipeline)
 
 ## 📈 Metrics Summary
 
